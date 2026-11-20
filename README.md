@@ -76,6 +76,6 @@ Communicating with messages whose types are unknown at compile time.
 </tr>
 </table>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="profile/stats.svg" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="profile/top-langs.svg" /></a>
+<a href="https://github.com/stats-organization/github-readme-stats-action"><img height=200 align="center" src="profile/stats.svg" /></a>
+<a href="https://github.com/stats-organization/github-readme-stats-action"><img height=200 align="center" src="profile/top-langs.svg" /></a>
 
